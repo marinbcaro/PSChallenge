@@ -1,7 +1,7 @@
 package com.platformscience.platformsciencechallenge.feature.drivers
 
 import com.platformscience.platformsciencechallenge.common.LoadingAnimationState
-import com.platformscience.platformsciencechallenge.model.DriverShipmentAssignment
+import com.platformscience.platformsciencechallenge.domain.model.DriverShipmentAssignment
 
 data class DriverState(
     val loadingAnimationState: LoadingAnimationState = LoadingAnimationState.Idle,

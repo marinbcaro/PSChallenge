@@ -1,4 +1,4 @@
-package com.platformscience.platformsciencechallenge.model
+package com.platformscience.platformsciencechallenge.domain.model
 
 import kotlinx.serialization.Serializable
 

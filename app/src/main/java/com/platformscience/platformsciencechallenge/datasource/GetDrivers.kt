@@ -6,7 +6,7 @@ import com.platformscience.platformsciencechallenge.common.DataState
 import com.platformscience.platformsciencechallenge.common.LoadingAnimationState
 import com.platformscience.platformsciencechallenge.common.MessageComponent
 import com.platformscience.platformsciencechallenge.domain.Algorithm
-import com.platformscience.platformsciencechallenge.model.DriverShipmentAssignment
+import com.platformscience.platformsciencechallenge.domain.model.DriverShipmentAssignment
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 

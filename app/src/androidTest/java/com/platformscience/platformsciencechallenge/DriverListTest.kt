@@ -4,9 +4,9 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.test.assertIsDisplayed
 import androidx.compose.ui.test.junit4.createComposeRule
 import androidx.compose.ui.test.onNodeWithText
+import com.platformscience.platformsciencechallenge.domain.model.DriverShipmentAssignment
 import com.platformscience.platformsciencechallenge.feature.drivers.DriverList
 import com.platformscience.platformsciencechallenge.feature.drivers.DriverState
-import com.platformscience.platformsciencechallenge.model.DriverShipmentAssignment
 import com.platformscience.platformsciencechallenge.ui.theme.PlatformScienceChallengeTheme
 import org.junit.Rule
 import org.junit.Test

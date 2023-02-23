@@ -4,7 +4,7 @@ import com.platformscience.platformsciencechallenge.cache.toShipment
 import com.platformscience.platformsciencechallenge.common.DataState
 import com.platformscience.platformsciencechallenge.common.LoadingAnimationState
 import com.platformscience.platformsciencechallenge.common.MessageComponent
-import com.platformscience.platformsciencechallenge.model.Shipment
+import com.platformscience.platformsciencechallenge.domain.model.Shipment
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import javax.inject.Inject

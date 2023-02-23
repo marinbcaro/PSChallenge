@@ -4,7 +4,7 @@ import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 import com.platformscience.platformsciencechallenge.domain.DriverDetails
-import com.platformscience.platformsciencechallenge.model.Shipment
+import com.platformscience.platformsciencechallenge.domain.model.Shipment
 
 @Entity(tableName = "shipment")
 data class ShipmentEntity(
