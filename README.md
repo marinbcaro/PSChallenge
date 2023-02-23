@@ -9,9 +9,9 @@ The challenge was built using Jetpack Compose to display the UI and a Room datab
 without the need of an internet connection.
 
 Third party Libraries used:
-Hilt (dependency injection)
-Gson Converter (parse json file)
-Lottie (animations)
+* Hilt (dependency injection)
+* Gson Converter (parse json file)
+* Lottie (animations)
 
 # Minimum Requirements to run the app:
 * Compile SDK 33
