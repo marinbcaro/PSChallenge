@@ -29,10 +29,10 @@ Lottie (animations)
 * Common: Classes that have common functionality in the app 
 
 # App Architecture
-The app uses 4 layers, the domain layer holds the models  
+The app uses 4 layers, the domain layer holds the models and algorithm, the datasource holds the database and json file and the 
 
 
-<img src="https://user-images.githubusercontent.com/6471872/220914884-d5e63651-6441-4bbf-8cc2-bb9c349cfbf4.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/6471872/220919125-98554de6-28fb-4ab6-82c3-b6e8f60f1d37.jpg" width=50% height=50%>
 
 
 
