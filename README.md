@@ -28,8 +28,11 @@ Lottie (animations)
 * Navigation: Uses compose navigation 
 * Common: Classes that have common functionality in the app 
 
+# App Architecture
+The app uses 4 layers, the domain layer holds the models  
 
 
+<img src="https://user-images.githubusercontent.com/6471872/220914884-d5e63651-6441-4bbf-8cc2-bb9c349cfbf4.jpg" width=50% height=50%>
 
 
 
